@@ -1,0 +1,46 @@
+Gary White
+C developer
+PERSONAL SUMMARY
+A bright, talented and ambitious C developer with a strong technical background
+who possesses self-discipline and the ability to work with the minimum of
+supervision. Able to play a key role throughout the software development /
+support life cycle of a project to ensure that quality solutions meet business
+objectives. Possessing a good team spirit, deadline orientated and having the
+ability to organise and present complex solutions clearly and accurately.
+Looking for a suitable developer position with an exciting and innovative
+company that offers room for progression.
+WORK EXPERIENCE
+IT Consultancy Firm – Coventry
+C DEVELOPER June 2008 - Present
+Contributing to both the requirements and technical aspects of any development
+specification. Investigating software problems identified in testing or via Support
+& providing solutions, also assisting in the resolution of software support issues.
+Duties:
+Working on the incorporation of smart technology & the use of portable devices.
+Acting as a conduit between the business, clients and developers.
+ Implementation of new services, applications and demonstrating them.
+Identifying and analyse performance bottlenecks and rectifying them.
+Technical design and documentation of new applications.
+Involvement in analysis and design meetings.
+Creating new applications for a data collection, maintenance & processing team.
+Responsible for requirements capture, design, coding, testing, installation.
+Web Application maintenance.
+Unit testing of all new code and developing device drivers or kernels.
+Providing support & maintenance of existing software.
+KEY SKILLS AND COMPETENCIES
+Knowledge of: ASP.NET, Silverlight, TDD, Javascript, PHP, COM.
+ Experience of: WPF, SQL Server, Design patterns, UML, OO, XSLT.
+Strong knowledge of relational database design and implementation.
+ Fluent in the current range of Microsoft C# /Java related technologies.
+Excellent system programming skills on Microsoft Windows platforms.
+Experience of Multi-threading and building real-time systems.
+Ability to deliver time-saving solutions to tight deadlines.
+Excellent knowledge of MS SQL Server.
+Ability to respond to pressure and meet tight deadlines.
+Database experience: Oracle and PostGreSQL.
+ACADEMIC QUALIFICATIONS
+BSc (Hons) Computer Science
+Nuneaton University 2005 - 2008
+A levels: Maths (A) English (B) Technology (B) Science (C)
+Coventry Central College 2003 - 2005
+REFERENCES – Available on request. 

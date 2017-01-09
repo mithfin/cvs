@@ -1,0 +1,59 @@
+Michael Harrison
+Graduate software engineer
+12 Manchester Road Leicester LE1 WS
+Tel: 0113 444 2211 Mobile: 07766 222 1166 Email: michael.h@emailsite.co.uk
+
+PERSONAL SUMMARY
+A versatile and professional software graduate with a commitment
+to and experience of developing innovative and creative software
+solutions. Able to perform full software development life cycle
+activates.
+Have gained commercial experience during my gap year with
+exposure to software development. Including carrying out
+straightforward design, testing or support of network design and
+solutions following existing methodology set by senior colleagues.
+Actively looking for a software engineering position with a fastpaced
+and ambitious company that can offer development training,
+project based learning and a mentoring programme.
+ACADEMIC QUALIFICATIONS
+2007 – 2010 B.A. (Hons) Computer Science 2:1
+Leicester University
+2005 – 2007 Leicester Sixth Form College
+A’ Levels: English (A)
+Maths (C)
+Physics (B)
+2003 – 2005 GCSE: English (B)
+Maths (D)
+Geography (B)
+Physics (D)
+WORK EXPERIENCE
+Berkshire Software Design - Berkshire
+SOFTWARE ENGINEER May 2010 – Present
+Gained valuable technical experience and also developed personal
+effectiveness within a corporate environment, along with an
+understanding of the companies core business activities.
+Duties:
+Worked on open source development projects.
+Writing C++ Linux applications to simulate graphic hardware.
+
+AREAS OF EXPERTISE
+Microsoft SQL server
+Microsoft ASP.NET (C#)
+Javascript
+Software design
+Code reviews
+Testing
+Video Streaming
+Technologies
+C++
+Unix
+Linux
+
+PERSONAL SKILLS
+Attention to detail
+Tactful and articulate
+Problem solving
+Team Leader
+Planning strategically
+Able to identify critical issues
+Excellent organisational skills

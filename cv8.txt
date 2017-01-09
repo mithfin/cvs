@@ -1,0 +1,36 @@
+Curriculum vitae
+First name: Mark
+Last name: Polubinskas
+Birth date: 30.12.1997
+Phone number: +7 960 893 69 15
+City: Volgograd, Russia
+E-mail: polubinskas.mark@yandex.ru
+GitHub: https://github.com/marekpan
+Desired position: Java Junior Developer
+Skills summary
+Programming languages:
+Java
+JavaScript
+SQL
+Technologies:
+HTML/CSS, J2SE
+Bootstrap, jQuery, AJAX, AngularJS
+Servlet API, JDBC, JSP, JSTL, Spring Framework, Hibernate, Maven
+OOP, Design Patterns
+Databases: MySQL, MongoDB
+Servers: Apache Tomcat
+VCS: Git
+Language skills:
+1) English – intermediate
+2) German – intermediate
+Working experience:
+Oct 2016 – Dec 2016 : UnitBean Creative Digital Laboratory.
+Java Backend Developer (Probation)
+Education:
+2003 – 2015
+School ? 134, Volgograd, Russia.
+2015 – 2016
+Volgograd State Technical University. Informatics.
+Personal advantages: Experience in team working for a real projects,
+good learnability and communicative skills, no bad habits, proponent of
+self-education

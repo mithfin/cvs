@@ -1,0 +1,48 @@
+Jane Smith
+Graduate test analyst
+PERSONAL SUMMARY
+A competent and determined graduate with experience of testing software for
+durability as well as computer bugs. Able to perform detailed testing of fixed,
+mobile and contact centre customer applications to agreed standards, ensuring
+client satisfaction and acceptance.
+Presently looking for a suitable graduate test analyst position with a reputable and
+forward looking company.
+ACADEMIC QUALIFICATIONS
+BA (Hons) Computer Science 2:2
+Derby University 2007 - 2010
+ISEB Foundation Certificate in Software Testing
+A levels: Maths (A) English (A) Geography (A)
+Central College 2005 - 2007
+WORK EXPERIENCE
+Salford Accountancy Firm – Coventry
+ACCOUNTS ASSISTANT June 2010 - Present
+Responsible for all day-to-day aspects of system testing on projects. Involved in
+the testing of application capabilities using a secure, resilient, and scalable
+methodology. Producing system test deliverables to agreed timescales, budget and
+quality.
+Duties:
+Attending development project meetings with developers and end users.
+Assisting in the preparation of test plans and test scripts.
+Manual testing of front and back end systems covering the full lifecycle.
+ Delivering UAT activities working on large scale projects with complex data.
+ Creating test scenarios.
+Involved in creating and designing a test environment.
+Ensuring progress reporting requirements are met.
+Providing feedback to the development team.
+Providing estimates to senior managers.
+Manage the prioritisation and reporting of defects.
+Providing material for written status reports by the Test Manager.
+Escalate project exceptions to the Project Manager.
+KEY SKILLS AND COMPETENCIES
+ Knowledge of defect management & administration.
+Experience writing formal test documentation.
+Excellent organisational and co-ordination skills.
+Strong interpersonal skills and customer facing presentation qualities.
+Having a thorough understanding of structured test methods & processes.
+Experience of testing complex user interfaces.
+ A understanding of both Manual and Automated Testing.
+ Knowledge of QA Run or Winrunner.
+ Able to plan test activities including logging, tracking and resolution.
+ Experience of working with development teams on build and release management
+processes.
+REFERENCES – Available on request. 
